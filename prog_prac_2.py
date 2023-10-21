@@ -13,5 +13,4 @@ def solution(n):
         
     dfs(0, '(')
     
-    
     return len(answer)
